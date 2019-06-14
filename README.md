@@ -1,3 +1,3 @@
-#Coding Challenge solutions
+## Coding Challenge solutions
 
-#Make with love <3
+# Make with love <3
